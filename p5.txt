@@ -1,0 +1,9 @@
+In the given code fragment, 
+'space_invaders' is a global list
+'player_pos' is a global tuple
+'level' and 'max_level' are global variables
+
+'def' is a reserved keyword for creating function, and 'play' function is a global function. 
+'while' is a reserved keyword for conditional loop, in this case while loop is local.
+'if' block is local within while block
+'continue' is a reserved keyword to be used in a local level, within a conditional loop(in this case, while loop) 
